@@ -1,2 +1,4 @@
-# cartochaco
-  All content to run CartoChaco, a website launched in 2014 with interactive maps, open data and journalism to raise awareness about one of the most important bioregions of South America.
+# CartoChaco
+In 2014, Internews’ Earth Journalism Network (EJN) developed CartoChaco, the first multimedia journalistic and data hub of information about this critical and endangered region, with InfoAmazonia, Terra-i, and Asociación Guyra. [Learn more about the project](https://earthjournalism.net/projects/carto-chaco).
+
+The platform was built in WordPress with a [fork of the JEO theme](https://github.com/EarthJournalismNetwork/jeo/tree/cartochaco). In 2021, the website was flattened and all the content was uploaded to this repository. The URL CartoChaco.com is now pointing to this repository via GitHub Pages.
